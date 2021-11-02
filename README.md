@@ -7,7 +7,7 @@ Uses regex to find `SEM-\d+` or `CUST-\d+` in the header element and transforms 
 ## Installation
 
 - Download the extension files
-- Open the Extension Management page by navigating to chrome://extensions.
+- Open the Extension Management page by navigating to [chrome://extensions](chrome://extensions).
   - Alternatively, open this page by clicking on the Extensions menu button and selecting Manage Extensions at the bottom of the menu.
   - Alternatively, open this page by clicking on the Chrome menu, hovering over More Tools then selecting Extensions
 - Enable Developer Mode by clicking the toggle switch next to Developer mode.
